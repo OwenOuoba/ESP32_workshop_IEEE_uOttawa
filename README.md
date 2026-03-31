@@ -1,8 +1,6 @@
 # IoT Fundamentals with ESP32 and MQTT
 
-| | |
-| --- | --- |
-| ![Project Overview](Media/IMG_0359.jpeg) | ![System Dashboard](Media/Screenshot%202026-03-30%20193043.png) |
+<img src="Media/IMG_0359.jpeg" width="400" /> <img src="Media/Screenshot%202026-03-30%20193043.png" width="400" /> 
 
 This project follows the IoT Fundamentals workflow: ESP32 reads sensor data, publishes with MQTT, and a backend can subscribe for processing or visualization.
 
@@ -32,6 +30,8 @@ In this implementation:
 
 ## Wiring
 
+<img src="Media/IMG_0354.jpeg" width="400" />
+
 | Sensor/Signal | ESP32 Pin |
 | --- | --- |
 | Trigger | GPIO 19 |
@@ -39,8 +39,6 @@ In this implementation:
 | LED | GPIO 2 |
 | VCC | 3.3V |
 | GND | GND |
-
-![Wiring Diagram](Media/IMG_0354.jpeg)
 
 ## Software Setup
 
