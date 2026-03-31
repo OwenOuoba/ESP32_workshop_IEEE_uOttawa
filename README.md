@@ -32,8 +32,6 @@ In this implementation:
 
 ## Wiring
 
-![Wiring Diagram](Media/IMG_0354.jpeg)
-
 | Sensor/Signal | ESP32 Pin |
 | --- | --- |
 | Trigger | GPIO 19 |
@@ -42,7 +40,7 @@ In this implementation:
 | VCC | 3.3V |
 | GND | GND |
 
-
+![Wiring Diagram](Media/IMG_0354.jpeg)
 
 ## Software Setup
 
